@@ -6,7 +6,7 @@ Kirjoitin terminaalille oman graafiikka pankin, jossa käyttäjä voi laittaa ra
 <br>
 <h3>Ohjaukset tapahtuva: <b>nuoli vasen ← ;nuoli oikea →; ENTER</b></h3> 
 
-<h1>Alotus näyttö:</h1>
+<h1>Aloitus näyttö:</h1>
 <img width="50%" src="/assets/Kuva-1.png" alt="näyttö 1" title="Kuva 1">
 
 <br>
