@@ -2,7 +2,7 @@
 
 Kirjoitin terminaalille oman graafiikka pankin, jossa käyttäjä voi laittaa rahaa, joka päivittyy näytölle. Ohjelma toimii siten, että nuolinäppäimistöllä pääsee valitsemaan vaihtoehtoja ja enterillä hyväksytään valittua. 
 
-<b>Huom. Ohjelma ei toimi, jos terminaali ruutu koko on liian pieni. Tästä ohjelma varoittaaa.</b> 
+<b>Huom. Ohjelma ei toimi, jos terminaali ruudun koko on liian pieni. Tästä ohjelma varoittaaa.</b> 
 <br>
 <h3>Ohjaukset tapahtuva: <b>nuoli vasen ← ;nuoli oikea →; ENTER</b></h3> 
 
