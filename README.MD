@@ -1,3 +1,3 @@
 # Grafiikka pankki lopputyö
 
-<img src="/repository/assets/Kuva-1.png" alt="näyttö 1" title="Kuva 1">
+<img src="/assets/Kuva-1.png" alt="näyttö 1" title="Kuva 1">
