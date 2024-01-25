@@ -11,11 +11,11 @@ Note The program does not work if the terminal screen size is too small. The pro
 Controls: `arrow left ← ;arrow right →; ENTER`
 
 <br>
-**Starting screen:**
+<b>Starting screen:</b>
 <br>
 <img width="50%" src="/assets/Kuva-1.png" alt="näyttö 1" title="Kuva 1">
 <br>
-**Money increase screen:**
+<b>Money increase screen:</b>
 <br>
 Money can only be added using the numbers in keyboard `1-9`, i.e. (100-900)
 <br>
