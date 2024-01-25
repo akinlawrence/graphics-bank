@@ -6,7 +6,7 @@ I wrote my own text graphics bank for the terminal using C#, where the user can 
 ## Purpose of the Projec
 My idea was to utize array to make a small grafical effect and write it from scratch using minimal amount of library. Even though the bank is the projects main idea, to me it about graphics.
 
-#Usage
+##Usage
 <b>Note The program does not work if the terminal screen size is too small. The program warns about this just scale it bigger.</b> 
 <br>
 Controls: `arrow left ← ;arrow right →; ENTER`
