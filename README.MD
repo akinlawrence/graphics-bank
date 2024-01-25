@@ -1,15 +1,20 @@
-# Grafiikka pankki lopputyö
+# Graphics bank small course project
 
-Kirjoitin terminaalille oman graafiikka pankin, jossa käyttäjä voi laittaa rahaa, joka päivittyy näytölle. Ohjelma toimii siten, että nuolinäppäimistöllä pääsee valitsemaan vaihtoehtoja ja enterillä hyväksytään valittua. 
+## About the project
+I wrote my own text graphics bank for the terminal using C#, where the user can put money, which is updated on the screen. The program works in such a way that you can select options with the arrow keys and accept the selected one with enter. The 
 
-<b>Huom. Ohjelma ei toimi, jos terminaali ruudun koko on liian pieni. Tästä ohjelma varoittaaa.</b> 
+## Purpose of the Projec
+My idea was to utize array to make a small grafical effect and write it from scratch using minimal amount of library. Even though the bank is the projects main idea, to me it about graphics.
+
+#Usage
+<b>Note The program does not work if the terminal screen size is too small. The program warns about this just scale it bigger.</b> 
 <br>
-<h3>Ohjaukset tapahtuva: <b>nuoli vasen ← ;nuoli oikea →; ENTER</b></h3> 
+<h3>Controls: `arrow left ← ;arrow right →; ENTER`</h3> 
 
-<h1>Aloitus näyttö:</h1>
+<h1>Starting screen:</h1>
 <img width="50%" src="/assets/Kuva-1.png" alt="näyttö 1" title="Kuva 1">
 
 <br>
-<h1>Rahan lisäys näyttö:</h1>
-<p>Rahaa voi vain lisätä sadoittan numero näppäimistö 1-9 eli (100-900)</p>
+<b>Money increase screen:</b>
+<p>Money can only be added using the numbers in keyboard `1-9`, i.e. (100-900)</p>
 <img width="50%" src="/assets/Kuva-2.png" alt="näyttö 2" title="Kuva 2">
