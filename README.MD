@@ -17,6 +17,6 @@ Controls: `arrow left ← ;arrow right →; ENTER`
 <br>
 <b>Money increase screen:</b>
 <br>
-Money can only be added using the numbers in keyboard `1-9`, i.e. (100-900)
+Money can only be added using the numbers in keyboard ` 1-9 `, i.e. (100-900)
 <br>
 <img width="50%" src="/assets/Kuva-2.png" alt="näyttö 2" title="Kuva 2">
